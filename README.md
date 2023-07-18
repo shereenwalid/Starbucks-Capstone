@@ -30,3 +30,13 @@ Summary of Results
 
 ## More of my analysis is available in this Medium blog post: 
 https://medium.com/@shereenwalid2003/the-starbucks-effect-a-deep-dive-into-customer-behaviour-and-offer-preferences-da6e1b84054c
+
+## Room for Improvement:
+1. Explore more advanced machine learning models.
+2. Address class imbalance in the data set.
+3. Use more sophisticated feature engineering techniques.
+4. Apply regularization techniques to prevent overfitting.
+5. Use ensembling techniques to combine the predictions of multiple models.
+
+## Acknowledgements:
+Project was made possible by Udacity platform and Starbucks datasets
